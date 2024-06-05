@@ -1,0 +1,66 @@
+{
+    "ColorFloor": {
+        "checkpoints": [
+            {
+                "steps": 499476,
+                "file_path": "results\\GALUTINIS\\ColorFloor\\ColorFloor-499476.onnx",
+                "reward": -0.18181818181818182,
+                "creation_time": 1715625732.7635095,
+                "auxillary_file_paths": [
+                    "results\\GALUTINIS\\ColorFloor\\ColorFloor-499476.pt"
+                ]
+            },
+            {
+                "steps": 999397,
+                "file_path": "results\\GALUTINIS\\ColorFloor\\ColorFloor-999397.onnx",
+                "reward": -0.047619047619047616,
+                "creation_time": 1715627427.2340875,
+                "auxillary_file_paths": [
+                    "results\\GALUTINIS\\ColorFloor\\ColorFloor-999397.pt"
+                ]
+            },
+            {
+                "steps": 1499999,
+                "file_path": "results\\GALUTINIS\\ColorFloor\\ColorFloor-1499999.onnx",
+                "reward": -0.05263157894736842,
+                "creation_time": 1715629165.7375407,
+                "auxillary_file_paths": [
+                    "results\\GALUTINIS\\ColorFloor\\ColorFloor-1499999.pt"
+                ]
+            },
+            {
+                "steps": 1999285,
+                "file_path": "results\\GALUTINIS\\ColorFloor\\ColorFloor-1999285.onnx",
+                "reward": -0.2,
+                "creation_time": 1715630912.9077523,
+                "auxillary_file_paths": [
+                    "results\\GALUTINIS\\ColorFloor\\ColorFloor-1999285.pt"
+                ]
+            },
+            {
+                "steps": 2001285,
+                "file_path": "results\\GALUTINIS\\ColorFloor\\ColorFloor-2001285.onnx",
+                "reward": -0.2,
+                "creation_time": 1715630913.4534469,
+                "auxillary_file_paths": [
+                    "results\\GALUTINIS\\ColorFloor\\ColorFloor-2001285.pt"
+                ]
+            }
+        ],
+        "elo": 1412.6060065145825,
+        "final_checkpoint": {
+            "steps": 2001285,
+            "file_path": "results\\GALUTINIS\\ColorFloor.onnx",
+            "reward": -0.2,
+            "creation_time": 1715630913.4534469,
+            "auxillary_file_paths": [
+                "results\\GALUTINIS\\ColorFloor\\ColorFloor-2001285.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}
